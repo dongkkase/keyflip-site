@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dongkkase.github.io/keyflip-site/sitemap.xml
